@@ -52,13 +52,6 @@ The actual conditions were implemented on-demand. If you want a new condition, p
 
 The full example is available on https://gist.github.com/758666
 
-### Import the JavaScript
-
-```html
-  <script src="http://code.jquery.com/jquery-latest.js"></script>
-  <script type="text/javascript" src#"https://github.com/phstc/jquery-twitter/raw/master/src/jquery.twitter.js"></script>
-```
-
 ### Create success callback
 
 This plugin is only for tweets search, it does not display the tweets. You need to implement the layout to display the tweets.
